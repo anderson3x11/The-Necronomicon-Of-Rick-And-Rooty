@@ -1,4 +1,4 @@
-# ☠️ The Necronomicon Of Rick And Rooty
+# 📖 The Necronomicon Of Rick And Rooty
 
 > *"When you gaze long into the terminal, the terminal also gazes into you."*  
 > – Someone who probably used `dd` without thinking
@@ -32,7 +32,7 @@ Use it wisely. Or not. Up to you.
 
 ---
 
-## 🧰 Exercice Chapter
+## 🧩 Exercice Chapter
 
 | 🌍 Site | 💬 Description |
 |--------|----------------|
