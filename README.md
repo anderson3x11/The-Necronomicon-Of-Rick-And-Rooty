@@ -21,7 +21,25 @@ Use it wisely. Or not. Up to you.
 
 ---
 
-## 🧰 Unix Chapter
+## 🧰 Tools Chapter
+
+| 🌍 Tool | 💬 Description |
+|--------|----------------|
+| [Nmap](https://nmap.org/book/man.html) | Versatile network scanner for host discovery, open ports and service fingerprinting. Official manual and usage guide. |
+| [Gobuster](https://github.com/OJ/gobuster) | CLI tool for brute-forcing URIs (directories, files) and virtual hosts using wordlists — great for web recon. |
+| [FFUF (Fuzz Faster U Fool)](https://github.com/ffuf/ffuf) | Fast web fuzzer for discovering hidden paths, parameters and files on web applications. |
+| [Metasploit](https://docs.metasploit.com/) | Exploitation and post-exploitation framework with a large module ecosystem and extensive docs. |
+| [Burp Suite](https://portswigger.net/burp/documentation) | Web application security platform: proxy, scanner, repeater, intruder and more. Official PortSwigger docs. |
+| [Wireshark](https://www.wireshark.org/docs/wsug_html_chunked/) | Full-featured network packet analyzer for deep traffic inspection and troubleshooting. |
+| [tcpdump](https://www.tcpdump.org/manpages/tcpdump.1.html) | Command-line packet capture and filtering tool — ideal for headless servers and scripting. |
+| [Netcat / Ncat](https://nmap.org/ncat/) | Network Swiss-army knife for TCP/UDP: shells, file transfer, and simple proxying. Ncat (from Nmap) is recommended. |
+| [Hydra (THC-Hydra)](https://github.com/vanhauser-thc/thc-hydra) | Fast network login cracker supporting many protocols (SSH, FTP, HTTP, RDP, etc.). |
+| [John the Ripper](https://www.openwall.com/john/) | Password cracking tool for a variety of hash formats with many cracking modes and tunables. |
+
+---
+
+
+## 💻 Unix Chapter
 
 | 🌍 Site | 💬 Description |
 |--------|----------------|
