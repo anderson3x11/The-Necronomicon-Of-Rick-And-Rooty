@@ -1,3 +1,9 @@
+<!-- top centered logo -->
+<p align="center">
+  <img src="logo.png" alt="The Necronomicon logo" width="300"/>
+</p>
+
+
 # 📖 The Necronomicon Of Rick And Rooty
 
 > *"When you gaze long into the terminal, the terminal also gazes into you."*  
