@@ -18,6 +18,7 @@ Use it wisely. Or not. Up to you.
 | [GTFOBins](https://gtfobins.github.io/) | Unix binaries that can be abused to bypass restrictions. A must-know for privilege escalation. |
 | [Cybersecurity 101 (FR)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/) | A beginner-friendly guide in French to understand key cybersecurity concepts and best practices. Solid intro for newcomers. |
 | [Webhook](https://webhook.site/) | Instantly generate a public URL to capture, inspect and debug webhooks, HTTP requests, and more. Magic for testing and mischief. |
+| [Reverse Shell Generator](https://www.revshells.com/) | A concise collection of ready-to-use reverse and bind shell one-liners for many languages and platforms (bash, python, php, nc, powershell, etc.). Great quick-reference when you need a working payload during labs or engagements. |
 
 ---
 
@@ -58,6 +59,7 @@ Use it wisely. Or not. Up to you.
 | [HackTheBox](https://hackthebox.com) | A playground for hackers, with real virtual machines to break into legally. |
 | [TryHackMe](https://tryhackme.com/) | Interactive cybersecurity training platform with gamified learning. |
 | [Rootme](https://www.root-me.org/) | A French-based CTF and hacking challenge platform covering a huge range of topics: web, cryptanalysis, reverse engineering, and more. Cult classic. |
+| [OverTheWire](https://overthewire.org/wargames/) | A set of progressive, hands-on security wargames that teach Linux, networking, cryptography and exploitation fundamentals. Ideal for beginners and intermediates to practice practical skills in structured levels. |
 
 ---
 
