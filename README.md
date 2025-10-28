@@ -1,10 +1,10 @@
 <!-- top centered logo -->
 <p align="center">
-  <img src="logo.png" alt="The Necronomicon logo" width="300"/>
+  <img src="logo.png" alt="Banarby Logo" width="300"/>
 </p>
 
 
-# 📖 The Necronomicon Of Rick And Rooty
+# 📖 Useful Resources of Dr Banarby
 
 > *"When you gaze long into the terminal, the terminal also gazes into you."*  
 > – Someone who probably used `dd` without thinking
