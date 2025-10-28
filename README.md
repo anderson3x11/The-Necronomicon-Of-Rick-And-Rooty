@@ -1,6 +1,6 @@
 <!-- top centered logo -->
 <p align="center">
-  <img src="logo.png" alt="Banarby Logo" width="300"/>
+  <img src="banarby-logo.png" alt="Banarby Logo" width="300"/>
 </p>
 
 
